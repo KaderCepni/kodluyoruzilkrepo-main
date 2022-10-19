@@ -13,17 +13,20 @@ Projeyi cloneladıktan sonra visual studo code programında açınız
 
 Linux için:
 
+```
 cd kodluyoruzilkrepo
-
-code .
+code.
+```
 
 
 ## Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-# License
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
+
 ![PROJEM](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
+
