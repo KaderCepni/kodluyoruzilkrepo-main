@@ -5,8 +5,10 @@ bu repo [kodluyoruz ](https://kodluyoruz.com) Front End eğitiminde oluşturduğ
 
 ## Installation
 
-Öncelikle projeyi clonelayın.(https://github.com/KaderCepni/kodluyoruzilkrepo.git)
-
+Öncelikle projeyi clonelayın.
+```
+(https://github.com/KaderCepni/kodluyoruzilkrepo.git)
+```
 ## Usage
 
 Projeyi cloneladıktan sonra visual studo code programında açınız
